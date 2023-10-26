@@ -65,14 +65,14 @@
             app:layout_constraintTop_toTopOf="parent"
             android:gravity="center"
             >
+
             <ImageView
                 android:id="@+id/imagen3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:src="@drawable/nosejaja"
                 android:background="@color/rosaaajajaja"
-                />
+                android:src="@drawable/nosejaja" />
 
             <ImageView
                 android:id="@+id/imagen2"
